@@ -4,7 +4,7 @@ title: "Knusprige belgische Waffeln"
 date: 2026-06-25
 draft: false
 description: "Aussen herrlich knusprig, innen wunderbar luftig — der absolute Klassiker für den perfekten Zmorge oder einen gemütlichen Zvieri."
-image: "static\images\recipes\waffle.png"
+image: "static/images/recipes/waffle.png"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Frühstück", "Dessert"]
