@@ -3,8 +3,8 @@
 title: "Knusprige belgische Waffeln"
 date: 2026-06-25
 draft: false
-description: "Aussen herrlich knusprig, innen wunderbar luftig — der zeitlose Klassiker für den perfekten Zmorge oder Zvieri."
-image: "images/recipes/classic-waffles.svg"
+description: "Aussen herrlich knusprig, innen wunderbar luftig — der absolute Klassiker für den perfekten Zmorge oder einen gemütlichen Zvieri."
+image: "static\images\recipes\waffle.png"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Frühstück", "Dessert"]
@@ -25,36 +25,33 @@ ingredients:
   - "3 EL Zucker"
   - "1 Päckchen Vanillezucker"
   - "3 Eier (getrennt)"
-  - "100g Butter, geschmolzen"
+  - "100g Butter (geschmolzen)"
   - "300ml Milch"
   - "Puderzucker zum Bestäuben"
-  - "Frische Beeren nach Wahl zum Servieren"
-  - "Ahornsirup oder Schokoladensauce (optional)"
+  - "Frische Beeren, Ahornsirup oder Schokoladensauce (optional zum Servieren)"
 
 # ── Zubereitung ──────────────────────────────────────────
 instructions:
-  - "Das Waffeleisen vorheizen und bei Bedarf leicht mit etwas Butter oder neutralem Öl einfetten."
-  - "Die Butter in einem kleinen Topf oder in der Mikrowelle schmelzen und kurz abkühlen lassen, damit sie nicht mehr kochend heiss ist."
-  - "Die Eier sorgfältig trennen. Das Eiweiss mit einer Prise Salz in einer sauberen Schüssel steif schlagen und beiseitestellen."
-  - "In einer grossen Schüssel Mehl, Backpulver, Zucker und Vanillezucker gründlich miteinander vermischen."
-  - "Eigelb, die geschmolzene Butter und die Milch zu den trockenen Zutaten geben. Alles mit dem Handrührgerät zu einem glatten, klumpenfreien Teig verrühren."
-  - "Den steif geschlagenen Eischnee vorsichtig mit einem Teigschaber unter den Teig heben, um die Luftigkeit zu bewahren."
-  - "Jeweils eine kleine Kelle Teig in das heisse Waffeleisen geben und für ca. 3–4 Minuten goldbraun und knusprig backen."
-  - "Die fertigen Waffeln auf einem Kuchengitter kurz abkühlen lassen und anschliessend warm mit Puderzucker und frischen Beeren servieren."
+  - "Als Erstes das Waffeleisen vorheizen und bei Bedarf mit ganz wenig Butter oder neutralem Öl einfetten."
+  - "Die Butter kurz in der Mikrowelle oder im Topf schmelzen und etwas abkühlen lassen, damit sie später nicht zu heiss für die Eier ist."
+  - "Die Eier sorgfältig trennen. Das Eiweiss mit einer Prise Salz steif schlagen und die Schüssel kurz beiseiteisen."
+  - "In einer grossen Schüssel Mehl, Backpulver, Zucker und Vanillezucker kurz miteinander vermischen."
+  - "Eigelb, die flüssige Butter und die Milch zu den trockenen Zutaten geben und alles mit dem Handrührgerät zu einem glatten, klumpenfreien Teig verrühren."
+  - "Jetzt den Eischnee mit einem Teigschaber ganz vorsichtig unter den Teig heben – nicht zu wild rühren, damit die Luftigkeit nicht verloren geht."
+  - "Jeweils eine kleine Kelle Teig ins heisse Waffeleisen geben und die Waffeln für ca. 3–4 Minuten backen, bis sie schön goldbraun und knusprig sind."
+  - "Die fertigen Waffeln kurz auf einem Kuchengitter ausdampfen lassen und dann – genau wie auf dem Bild image_7bb845.jpg – noch warm mit reichlich Puderzucker bestreuen und geniessen."
 ---
 
-> «Der Eischnee macht hier den ganzen Unterschied. Wer ihn geduldig und vorsichtig unterhebt, wird mit federleichten Waffeln belohnt!» — Chef Jan
+## Warum dieses Rezept so gut funktioniert
 
-## Über dieses Rezept
+Es gibt kaum etwas Besseres als den Duft von frisch gebackenen Waffeln, der durch die Küche zieht. Das Geheimnis für die perfekte Konsistenz liegt hier ganz klar im Trennen der Eier: Während das Waffeleisen für die wunderbar knusprige Kruste sorgt, macht der untergehobene Eischnee die Waffeln innen drin extrem fluffig und weich. 
 
-Diese klassischen Waffeln sind der perfekte Start in den Tag oder ein tolles Dessert für zwischendurch. Durch das Trennen der Eier und das Unterheben von Eischnee werden sie innen wunderbar fluffig, während das heisse Waffeleisen für die perfekte Knusprigkeit an der Oberfläche sorgt.
+## Meine besten Tipps
 
-## Tipps
+- **Damit sie knusprig bleiben:** Lege die Waffeln nach dem Backen am besten nebeneinander auf ein Kuchengitter. Wenn du sie direkt stapelst, fangen sie an zu schwitzen und werden leider schnell weich.
+- **Der Geheimtipp für extra Leichtigkeit:** Ersetze einfach 50ml der Milch durch kohlensäurehaltiges Mineralwasser. Die Kohlensäure sorgt für noch mehr feine Luftbläschen im Teig.
+- **Gemeinsam warm essen:** Wenn du für mehrere Leute backst, kannst du den Ofen auf 80°C (Ober-/Unterhitze) vorheizen. Schiebe die fertigen Waffeln einfach direkt auf dem Backrost hinein, dann bleiben sie warm und knusprig, bis alle bereit zum Essen sind.
 
-- **Nicht stapeln!** Lege die fertigen Waffeln nach dem Backen nebeneinander auf ein Kuchengitter. Wenn du sie stapelst, entweicht der Dampf nicht und sie werden schnell weich.
-- **Extra Knusprigkeit:** Ersetze 50ml der Milch durch kohlensäurehaltiges Mineralwasser. Der Sprudeleffekt macht den Teig noch lockerer.
-- **Warmhalten:** Wenn du für mehrere Personen backst, kannst du die fertigen Waffeln im Ofen bei 80°C auf dem Rost warmhalten, bis alle fertig sind.
+## Lässt sich super vorbereiten
 
-## Vorbereitung
-
-Der Grundteig (ohne Eischnee) kann problemlos am Vorabend zubereitet und abgedeckt im Kühlschrank gelagert werden. Schlage den Eischnee dann einfach frisch auf und hebe ihn direkt vor dem Backen unter den Teig.
+Wenn es morgens mal schnell gehen muss, kannst du den Grundteig (ohne den Eischnee) problemlos schon am Vorabend anrühren und abgedeckt in den Kühlschrank stellen. Am nächsten Tag schlägst du dann nur noch kurz das Eiweiss auf, hebst es unter und schon kann das Backen losgehen!
