@@ -4,7 +4,7 @@ title: "Pasta mit Rahmsauce und Ofenlachs"
 date: 2026-06-18
 draft: false
 description: "Ein schnelles Gericht mit würzigem Ofenlachs und Rahmsauce. Für wenn man nicht viel Zeit hat aber trotzdem etwas köstliches essen will."
-image: "images/recipes/pasta-mit-lachs-und-rahmsauce.jpg"
+image: "images/recipes/pasta-mit-rahmsauce-und-ofenlachs.jpg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Hauptgericht"]
