@@ -9,7 +9,7 @@ image: "images/recipes/classic-waffles.svg"
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Frühstück", "Dessert"]
 tags: ["waffeln", "süss", "klassiker", "schnell", "frühstück"]
-contributors: ["Chef Jan"]
+contributors: ["Krithik Kamesh"]
 difficulty: "Einfach"
 
 # ── Eckdaten ─────────────────────────────────────────────
