@@ -4,7 +4,7 @@ title: "Knusprige belgische Waffeln"
 date: 2026-06-25
 draft: false
 description: "Aussen herrlich knusprig, innen wunderbar luftig — der absolute Klassiker für den perfekten Zmorge oder einen gemütlichen Zvieri."
-image: "static/images/recipes/waffle.png"
+image: "images/recipes/waffle.png"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Frühstück", "Dessert"]
@@ -41,6 +41,10 @@ instructions:
   - "Jeweils eine kleine Kelle Teig ins heisse Waffeleisen geben und die Waffeln für ca. 3–4 Minuten backen, bis sie schön goldbraun und knusprig sind."
   - "Die fertigen Waffeln kurz auf einem Kuchengitter ausdampfen lassen und dann – genau wie auf dem Bild image_7bb845.jpg – noch warm mit reichlich Puderzucker bestreuen und geniessen."
 ---
+
+„Frisch, warm und goldbraun sollte der perfekte Snack schmecken.“ — Krithik
+
+
 
 ## Warum dieses Rezept so gut funktioniert
 
