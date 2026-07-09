@@ -27,7 +27,7 @@ Das fertige Kochbuch findest du **[hier](https://bbw-it.github.io/431-kochbuch-5
 | Ranja    | Ofenlachs                    |
 | Jakub    | Schoko-Tassenkuchen          |
 | Roksana  | Pfannkuchen                  |
-| Tim      | Spaghetti Bolognese          |
+| Tim      | koreanischer Gurkensalat     |
 | Latifa   | Pasta mit Lachs              |
 | CJ       | Flammkuchen                  |
 | Jaydon   | Pizza Prosciutto             |
@@ -39,6 +39,7 @@ Das fertige Kochbuch findest du **[hier](https://bbw-it.github.io/431-kochbuch-5
 | Nolan    | Kladdkaka                    |
 | Linus    | Mac n' Cheese                |
 | Felix    | Steak und Nudeln             |
+| Nico     | Brownies                     |
 
 ---
 
